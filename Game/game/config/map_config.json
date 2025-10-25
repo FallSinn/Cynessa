@@ -1,0 +1,10 @@
+{
+  "tile_size": 32,
+  "chunk_size": 64,
+  "load_radius": 2,
+  "biomes": ["urban", "forest", "industrial"],
+  "spawn_density": {
+    "enemy": 0.2,
+    "loot": 0.1
+  }
+}
