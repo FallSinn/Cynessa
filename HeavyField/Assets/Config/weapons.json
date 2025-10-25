@@ -1,0 +1,24 @@
+{
+  "weapons": [
+    {"id": "pistol_mk1", "displayName": "MK1 Pistol", "category": "Pistol", "fireRate": 4.5, "magazineSize": 12, "reserveAmmo": 48, "reloadTime": 1.2, "damage": 20, "projectileSpeed": 200, "automatic": false, "spread": 1.5},
+    {"id": "pistol_mk2", "displayName": "MK2 Burst", "category": "Pistol", "fireRate": 6.0, "magazineSize": 18, "reserveAmmo": 72, "reloadTime": 1.4, "damage": 16, "projectileSpeed": 210, "automatic": false, "spread": 1.3},
+    {"id": "smg_viper", "displayName": "Viper SMG", "category": "SMG", "fireRate": 12.5, "magazineSize": 32, "reserveAmmo": 160, "reloadTime": 2.1, "damage": 12, "projectileSpeed": 240, "automatic": true, "spread": 3.0},
+    {"id": "smg_shock", "displayName": "Shockwave SMG", "category": "SMG", "fireRate": 14.0, "magazineSize": 28, "reserveAmmo": 196, "reloadTime": 2.2, "damage": 11, "projectileSpeed": 235, "automatic": true, "spread": 3.2},
+    {"id": "rifle_patrol", "displayName": "Patrol Rifle", "category": "Rifle", "fireRate": 8.5, "magazineSize": 30, "reserveAmmo": 180, "reloadTime": 2.4, "damage": 24, "projectileSpeed": 260, "automatic": true, "spread": 2.5},
+    {"id": "rifle_scout", "displayName": "Scout Rifle", "category": "Rifle", "fireRate": 7.2, "magazineSize": 25, "reserveAmmo": 125, "reloadTime": 2.3, "damage": 28, "projectileSpeed": 275, "automatic": true, "spread": 2.2},
+    {"id": "rifle_dmr", "displayName": "DMR Sentry", "category": "Rifle", "fireRate": 4.0, "magazineSize": 20, "reserveAmmo": 80, "reloadTime": 2.6, "damage": 42, "projectileSpeed": 290, "automatic": false, "spread": 1.8},
+    {"id": "shotgun_guard", "displayName": "Guard Shotgun", "category": "Shotgun", "fireRate": 1.8, "magazineSize": 8, "reserveAmmo": 24, "reloadTime": 2.8, "damage": 12, "projectileSpeed": 150, "automatic": false, "spread": 8.0},
+    {"id": "shotgun_widow", "displayName": "Widow Maker", "category": "Shotgun", "fireRate": 1.2, "magazineSize": 6, "reserveAmmo": 18, "reloadTime": 3.1, "damage": 18, "projectileSpeed": 140, "automatic": false, "spread": 9.0},
+    {"id": "lmg_havoc", "displayName": "Havoc LMG", "category": "LMG", "fireRate": 9.5, "magazineSize": 80, "reserveAmmo": 240, "reloadTime": 4.2, "damage": 18, "projectileSpeed": 250, "automatic": true, "spread": 3.8},
+    {"id": "lmg_anchor", "displayName": "Anchor LMG", "category": "LMG", "fireRate": 8.8, "magazineSize": 90, "reserveAmmo": 270, "reloadTime": 4.5, "damage": 17, "projectileSpeed": 245, "automatic": true, "spread": 4.0},
+    {"id": "sniper_lancer", "displayName": "Lancer Sniper", "category": "Sniper", "fireRate": 1.0, "magazineSize": 5, "reserveAmmo": 15, "reloadTime": 3.5, "damage": 95, "projectileSpeed": 350, "automatic": false, "spread": 0.25},
+    {"id": "sniper_longshot", "displayName": "Longshot", "category": "Sniper", "fireRate": 0.8, "magazineSize": 6, "reserveAmmo": 18, "reloadTime": 3.8, "damage": 110, "projectileSpeed": 360, "automatic": false, "spread": 0.2},
+    {"id": "launcher_micro", "displayName": "Micro Launcher", "category": "Launcher", "fireRate": 0.6, "magazineSize": 4, "reserveAmmo": 12, "reloadTime": 3.6, "damage": 140, "projectileSpeed": 90, "automatic": false, "spread": 4.0},
+    {"id": "launcher_storm", "displayName": "Storm Launcher", "category": "Launcher", "fireRate": 0.4, "magazineSize": 3, "reserveAmmo": 9, "reloadTime": 4.0, "damage": 160, "projectileSpeed": 95, "automatic": false, "spread": 4.5},
+    {"id": "pistol_auto", "displayName": "Auto Pistol", "category": "Pistol", "fireRate": 11.0, "magazineSize": 20, "reserveAmmo": 100, "reloadTime": 1.9, "damage": 14, "projectileSpeed": 205, "automatic": true, "spread": 2.5},
+    {"id": "carbine_striker", "displayName": "Striker Carbine", "category": "Carbine", "fireRate": 9.1, "magazineSize": 36, "reserveAmmo": 180, "reloadTime": 2.5, "damage": 22, "projectileSpeed": 255, "automatic": true, "spread": 2.3},
+    {"id": "carbine_path", "displayName": "Pathfinder Carbine", "category": "Carbine", "fireRate": 8.0, "magazineSize": 34, "reserveAmmo": 170, "reloadTime": 2.4, "damage": 24, "projectileSpeed": 260, "automatic": true, "spread": 2.0},
+    {"id": "beam_caster", "displayName": "Caster Beam", "category": "Energy", "fireRate": 6.5, "magazineSize": 40, "reserveAmmo": 200, "reloadTime": 2.7, "damage": 15, "projectileSpeed": 300, "automatic": true, "spread": 1.0},
+    {"id": "beam_fury", "displayName": "Fury Beam", "category": "Energy", "fireRate": 5.5, "magazineSize": 35, "reserveAmmo": 175, "reloadTime": 3.0, "damage": 20, "projectileSpeed": 310, "automatic": true, "spread": 0.9}
+  ]
+}
