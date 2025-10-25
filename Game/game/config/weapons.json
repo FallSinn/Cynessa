@@ -1,0 +1,22 @@
+[
+  {"id":"knife","type":"melee","name":"Knife","ammo":"--","mag":0,"damage":35,"fire_rate":1.0,"reload":0.8,"range":2,"projectile":"melee","special":"fast slash"},
+  {"id":"pistol","type":"sidearm","name":"Vektor P9","ammo":"9mm","mag":15,"damage":18,"fire_rate":3.5,"reload":1.5,"range":50,"projectile":"hitscan"},
+  {"id":"revolver",".type":"sidearm","name":"Titan .44","ammo":".44","mag":6,"damage":60,"fire_rate":0.8,"reload":2.6,"range":70,"projectile":"hitscan"},
+  {"id":"smg","type":"smg","name":"Sting 9","ammo":"9mm","mag":30,"damage":12,"fire_rate":12.0,"reload":2.1,"range":60,"projectile":"hitscan"},
+  {"id":"assault","type":"rifle","name":"Falcon AR","ammo":"5.56","mag":30,"damage":30,"fire_rate":8.0,"reload":2.4,"range":120,"projectile":"hitscan","special":"auto-burst toggle"},
+  {"id":"burst","type":"rifle","name":"Cerberus 3B","ammo":"5.56","mag":24,"damage":33,"fire_rate":6.0,"reload":2.5,"range":140,"projectile":"hitscan","special":"3-round burst"},
+  {"id":"shotgun","type":"shotgun","name":"Warden 12","ammo":"12g","mag":8,"damage":85,"fire_rate":1.0,"reload":3.0,"range":20,"projectile":"pellets","special":"spread"},
+  {"id":"autoshotgun","type":"shotgun","name":"Rage Mk2","ammo":"12g","mag":6,"damage":55,"fire_rate":3.0,"reload":3.2,"range":25,"projectile":"pellets","special":"semi-auto"},
+  {"id":"lmg","type":"heavy","name":"Goliath LMG","ammo":"7.62","mag":100,"damage":28,"fire_rate":10.0,"reload":4.5,"range":200,"projectile":"hitscan","special":"bipod mode"},
+  {"id":"sniper","type":"sniper","name":"Requiem .50","ammo":".50","mag":5,"damage":150,"fire_rate":0.5,"reload":3.8,"range":1000,"projectile":"bolt","special":"one-shot headshot multiplier"},
+  {"id":"carbine","type":"carbine","name":"Vanguard","ammo":"6.8","mag":20,"damage":40,"fire_rate":6.5,"reload":2.2,"range":180,"projectile":"hitscan"},
+  {"id":"rocket","type":"explosive","name":"Meteor RPG","ammo":"rocket","mag":1,"damage":300,"fire_rate":0.2,"reload":5.0,"range":500,"projectile":"rocket","special":"splash 6m"},
+  {"id":"grenade_launcher","type":"explosive","name":"Boomstick GL","ammo":"40mm","mag":6,"damage":120,"fire_rate":1.2,"reload":3.6,"range":200,"projectile":"arc","special":"sticky grenade option"},
+  {"id":"laser","type":"energy","name":"Aurora Beam","ammo":"energy","mag":100,"damage":6,"fire_rate":30,"reload":3.0,"range":300,"projectile":"beam","special":"continuous beam, overheat"},
+  {"id":"plasma","type":"energy","name":"Plasma Reaver","ammo":"plasma","mag":20,"damage":90,"fire_rate":1.2,"reload":4.0,"range":150,"projectile":"projectile","special":"armor melt"},
+  {"id":"minigun","type":"heavy","name":"Spiral Minigun","ammo":"5.56","mag":400,"damage":18,"fire_rate":25.0,"reload":6.0,"range":150,"projectile":"hitscan","special":"spin-up delay"},
+  {"id":"crossbow","type":"special","name":"Silent Bolt","ammo":"bolt","mag":1,"damage":110,"fire_rate":0.6,"reload":2.0,"range":250,"projectile":"bolt","special":"silent, pierce"},
+  {"id":"flare","type":"utility","name":"EMP Flare","ammo":"charge","mag":1,"damage":0,"fire_rate":0.2,"reload":4.0,"range":80,"projectile":"grenade","special":"disable electronics within radius"},
+  {"id":"chain","type":"melee","name":"Chain Mace","ammo":"--","mag":0,"damage":60,"fire_rate":0.9,"reload":0.9,"range":3,"projectile":"melee","special":"knockback"},
+  {"id":"special","type":"special","name":"Black Hole Cannon","ammo":"energy","mag":2,"damage":400,"fire_rate":0.1,"reload":8.0,"range":300,"projectile":"gravity","special":"pulls enemies then explodes"}
+]

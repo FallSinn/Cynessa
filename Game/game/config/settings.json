@@ -1,0 +1,10 @@
+{
+  "resolution": [1280, 720],
+  "fullscreen": false,
+  "vsync": true,
+  "target_fps": 60,
+  "music_volume": 0.8,
+  "sfx_volume": 0.8,
+  "language": "en",
+  "show_fps": true
+}
